@@ -33,7 +33,8 @@ This project consists in a Powershell script to retrieve the Veeam Backup & Repl
 * You can find the original code for PRTG here, thank you so much Markus Kraus: https://github.com/mycloudrevolution/Advanced-PRTG-Sensors/blob/master/Veeam/PRTG-VeeamBRStats.ps1
 * Big thanks to Shawn, creating a awesome Reporting Script: http://blog.smasterson.com/2016/02/16/veeam-v9-my-veeam-report-v9-0-1/
 
-I hope it helps you
 
-# All original contributers can be reached through their respective websites. 
-# Thanks to Markus and Shawn and others for making this possible!! Nick# veeam-stats
+* All original contributers can be reached through their respective websites. 
+* Thanks to Markus and Shawn and others for making this possible!! 
+Nick
+# veeam-stats
